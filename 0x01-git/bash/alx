@@ -1,2 +1,1 @@
-#!/bin/bash/necho "alx" 
-#!/bin/bash/necho "alx" 
+#!/bin/bash echo "ALX" 
